@@ -1,15 +1,5 @@
-![Open Source at Microsoft](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png) 
+Technology to create, process and manage documents
 
-## Get Involved
+At Extrieve, we enable businesses to achieve operational excellence with our world-class document workflow, automation and management solutions. Our products can be easily integrated with existing solutions, which helps in accelerating business processes, reduces operational costs, and drives productivity and business growth.
 
-Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
-
-* [Explore featured projects](https://opensource.microsoft.com/projects/)
-* [Explore open source jobs at Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
-* [Apply for Azure credits for open source projects](https://opensource.microsoft.com/azure-credits)
-
-Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
-
-----
-
-Microsoft projects adopt the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
+If you are looking for a proven and innovative document capture, processing and management solutions, explore Extrieve.
