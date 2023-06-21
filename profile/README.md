@@ -1,5 +1,6 @@
-
-<img class="img-fluid" src="https://github.com/ExtrieveTechnologies/.github/blob/main/Extrieve.png?raw=true" width="30%" alt="img-verification">
+<p align="left">
+<img class="img-fluid" src="https://github.com/ExtrieveTechnologies/.github/blob/main/Extrieve.png?raw=true" width="30%" alt="img-verification" align="center" >
+</p>
 
 Technology to create, process and manage documents
 
