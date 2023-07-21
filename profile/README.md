@@ -2,10 +2,10 @@
 <img class="img-fluid" src="https://github.com/ExtrieveTechnologies/.github/blob/main/Extrieve.png?raw=true" width="30%" alt="img-verification" align="center" >
 </p>
 
-Technology to create, process and manage documents
+Enterprise DMS, Workflow, OCR, PDF solutions & SDKs with AI
 
 > We are open to collaboration, and adaptive
 
-At Extrieve, we enable businesses to achieve operational excellence with our world-class document workflow, automation and management solutions. Our products can be easily integrated with existing solutions, which helps in accelerating business processes, reduces operational costs, and drives productivity and business growth.
+By providing businesses with top-notch document management and workflow solutions, we at Extrieve help them achieve operational excellence. Our products are simple to integrate with current systems, which speeds up business operations, lowers operating expenses, and promotes productivity and business expansion.
 
-If you are looking for a proven and innovative document capture, processing and management solutions, explore Extrieve.
+Explore Extrieve if you're seeking for tried-and-true and cutting-edge document management, workflow, data extraction, or PDF solutions and SDKs.
