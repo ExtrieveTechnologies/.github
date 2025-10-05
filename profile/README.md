@@ -1,5 +1,5 @@
 <p align="left">
-<img class="img-fluid" src="https://github.com/ExtrieveTechnologies/.github/blob/main/Extrieve.png?raw=true" width="30%" alt="img-verification" align="center" >
+<img class="img-fluid" src="https://github.com/ExtrieveTechnologies/.github/blob/main/Extrievelogo.png?raw=true" width="30%" alt="img-verification" align="center" >
 </p>
 
 Enterprise DMS, Workflow, OCR, PDF solutions & SDKs with AI
