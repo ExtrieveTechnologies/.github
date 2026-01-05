@@ -16,13 +16,20 @@ From **document capture and workflow automation** to **AI-powered data extractio
 
 ---
 
-### 🔹 Explore & Connect
+## 🔗 Explore & Connect with Extrieve
 
-- 🌐 **Website**  
-  https://www.extrieve.com
-
-- 📱 **Mobile SDK Demo App**  
-  https://play.google.com/store/apps/details?id=com.extrieve.demo
+- 🌐 **Official Website**  
+  Visit our homepage to learn more about Extrieve’s document automation and AI solutions:  
+  👉 https://www.extrieve.com
 
 - 💬 **Community Support & Discussions**  
-  https://github.com/orgs/ExtrieveTechnologies/discussions
+  Ask questions, share ideas, and connect with the Extrieve community:  
+  👉 https://github.com/orgs/ExtrieveTechnologies/discussions
+
+- 📘 **Official Documentation**  
+  Access detailed guides, APIs, and integration docs:  
+  👉 https://docs.extrieve.in/
+
+- 📱 **Mobile SDK Demo App (Android)**  
+  Experience Extrieve’s Mobile SDK capabilities firsthand:  
+  👉 https://play.google.com/store/apps/details?id=com.extrieve.demo
