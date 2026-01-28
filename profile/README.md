@@ -7,7 +7,7 @@
 <h3>Enterprise Document & Workflow Platforms — Built to Integrate, Built to Scale</h3>
 
 <p>
-  <b>Document Management • Workflow Automation • OCR • PDF • AI SDKs</b>
+  <b> Ai Workflow • Imaging • AI solutions • DMS </b>
 </p>
 
 <p>
