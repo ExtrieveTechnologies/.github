@@ -57,25 +57,25 @@
 
   <a href="https://docs.extrieve.in/" target="_blank">
     <img alt="Documentation"
-         src="https://img.shields.io/badge/📘%20Documentation-APIs%20%26%20SDKs-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white">
+         src="https://img.shields.io/badge/%20Documentation-APIs%20%26%20SDKs-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white">
   </a>
   &nbsp;
 
   <a href="https://github.com/orgs/ExtrieveTechnologies/discussions" target="_blank">
     <img alt="Community"
-         src="https://img.shields.io/badge/💬%20Community-Open%20Discussions-6f42c1?style=for-the-badge&logo=github&logoColor=white">
+         src="https://img.shields.io/badge/%20Community-Open%20Discussions-6f42c1?style=for-the-badge&logo=github&logoColor=white">
   </a>
   &nbsp;
 
   <a href="https://play.google.com/store/apps/details?id=com.extrieve.demo" target="_blank">
     <img alt="Android Demo"
-         src="https://img.shields.io/badge/📱%20Extrieve%20DEMO%20APP-34A853?style=for-the-badge&logo=googleplay&logoColor=white">
+         src="https://img.shields.io/badge/%20Extrieve%20DEMO%20APP-34A853?style=for-the-badge&logo=googleplay&logoColor=white">
   </a>
   &nbsp;
 
   <a href="https://contact.extrieve.com?ptype=QuickCapture_General" target="_blank">
     <img alt="Contact"
-         src="https://img.shields.io/badge/🤝%20Connect-Talk%20to%20Us-00b894?style=for-the-badge&logo=gmail&logoColor=white">
+         src="https://img.shields.io/badge/%20Connect-Talk%20to%20Us-00b894?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
 </div>
