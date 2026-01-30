@@ -136,9 +136,3 @@
     Open to collaboration. Built for enterprise. Designed with developers in mind.
   </i>
 </p>
-
-<p align="center">
-  <sub>
-    © 1996–2025 <a href="https://www.extrieve.com/">Extrieve Technologies</a>. All rights reserved.
-  </sub>
-</p
