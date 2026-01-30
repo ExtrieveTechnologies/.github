@@ -4,7 +4,7 @@
        alt="Extrieve Logo" />
 </p>
 
-<h3>Enterprise Document & Workflow Platforms — Built to Integrate, Built to Scale</h3>
+<h3>Enterprise Document & Workflow Platforms — Built to Integrate, Built to Scale With Ai</h3>
 
 <p>
   <b> Ai Workflow • Imaging • AI solutions • DMS </b>
