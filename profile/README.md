@@ -67,8 +67,8 @@
   </a>
   &nbsp;
 
-  <a href="https://play.google.com/store/apps/details?id=com.extrieve.demo" target="_blank">
-    <img alt="Android Demo"
+  <a href="https://play.google.com/store/apps/dev?id=8971728073813961276" target="_blank">
+    <img alt="Extrieve Playstore"
          src="https://img.shields.io/badge/%20Extrieve%20DEMO%20APP-34A853?style=for-the-badge&logo=googleplay&logoColor=white">
   </a>
   &nbsp;
@@ -107,13 +107,12 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📲 Experience the SDK</h3>
+      <h3>📲 Experience Extrieve</h3>
       <p>
-        Try our Android demo app to explore document capture and AI features
-        in action.
+        Checkout our playstore to explore features in action.
       </p>
       <p>
-        <a href="https://play.google.com/store/apps/details?id=com.extrieve.demo" target="_blank"><b>View Android demo app →</b></a>
+        <a href="https://play.google.com/store/apps/dev?id=8971728073813961276" target="_blank"><b>Extrieve Playstore Home →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
