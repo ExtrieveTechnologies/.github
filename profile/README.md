@@ -116,7 +116,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏢 Work With Extrieve</h3>
+      <h3>🏢 Contact Extrieve</h3>
       <p>
         Interested in evaluation, enterprise integration,
         partnerships, or joint development?
