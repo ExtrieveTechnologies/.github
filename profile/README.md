@@ -13,7 +13,7 @@
   <a href="https://www.extrieve.com"><img src="https://img.shields.io/badge/Website-extrieve.com-0A66C2?style=flat&logo=google-chrome&logoColor=white" alt="Web" /></a>
   <a href="https://www.linkedin.com/company/extrieve"><img src="https://img.shields.io/badge/LinkedIn-Extrieve-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://blog.extrieve.com/"><img src="https://img.shields.io/badge/Blog-Extrieve%20Insights-FF6F00?style=flat&logo=blogger&logoColor=white" alt="Blog" /></a>
-  <a href="https://github.com/orgs/ExtrieveTechnologies/discussions"><img src="https://img.shields.io/badge/Community-Discussions-purple?style=flat&logo=github" alt="Community" /></a>
+  <a href="https://github.com/orgs/ExtrieveTechnologies/discussions/categories/q-a?discussions_q="><img src="https://img.shields.io/badge/Community-Discussions-purple?style=flat&logo=github" alt="Community" /></a>
   <a href="https://contact.extrieve.com?ptype=Extrieve_Home"><img src="https://img.shields.io/badge/Contact-Talk%20to%20Us-success?style=flat&logo=maildotru&logoColor=white" alt="Contact" /></a>
 </p>
 <p>
